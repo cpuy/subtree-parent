@@ -1,5 +1,5 @@
-Commit 1
-commit 2
+Commit 3
+commit 5
 
 # subtree-parent
 git remote add child ../subtree-child 
