@@ -1,3 +1,4 @@
+2.0.0 VERSION
 # Here is Subscription Pack source code
 
 ## create
