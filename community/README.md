@@ -5,3 +5,4 @@ commit 2
 commit3
 commit4
 RELEASE 
+RELEASE 1.0.2
