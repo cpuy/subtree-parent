@@ -65,5 +65,5 @@ git checkout community/release/$RELEASE_VERSION
 
 # tag and push branch + tag to subtree
 git tag -a $RELEASE_VERSION -m 'Release $RELEASE_VERSION'
-git push $SUBTREE_REPO release/$RELEASE_VERSION
+git push $SUBTREE_REPO community/release/$RELEASE_VERSION:release/$RELEASE_VERSION
 git push $SUBTREE_REPO $RELEASE_VERSION
