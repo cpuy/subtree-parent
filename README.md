@@ -18,3 +18,6 @@ git subtree pull --prefix=child git@github.com:cpuy/subtree-child.git master --s
 ```
 
 ![](victory.gif)
+
+
+AWESOME
