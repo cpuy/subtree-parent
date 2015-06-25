@@ -14,10 +14,8 @@ git subtree push --prefix=community git@github.com:cpuy/subtree-child.git master
 
 ## pull
 ```shell
-git subtree pull --prefix=community git@github.com:cpuy/subtree-child.git master --squash
+git subtree pull --prefix=community git@github.com:cpuy/subtree-child.git master [--squash]
 ```
 
 ![](victory.gif)
 
-
-Modification on both side
