@@ -9,12 +9,12 @@ git push
 
 ## push
  ```shell
-git subtree push --prefix=child git@github.com:cpuy/subtree-child.git master
+git subtree push --prefix=community git@github.com:cpuy/subtree-child.git master
 ```
 
 ## pull
 ```shell
-git subtree pull --prefix=child git@github.com:cpuy/subtree-child.git master --squash
+git subtree pull --prefix=community git@github.com:cpuy/subtree-child.git master --squash
 ```
 
 ![](victory.gif)
