@@ -17,5 +17,10 @@ git subtree push --prefix=community git@github.com:cpuy/subtree-child.git master
 git subtree pull --prefix=community git@github.com:cpuy/subtree-child.git master [--squash]
 ```
 
+## cherry-pick
+```shell
+git cherry-pick -X subtree=community <ref>
+```
+
 ![](victory.gif)
  new one
